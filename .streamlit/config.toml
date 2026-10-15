@@ -1,0 +1,7 @@
+# Force the light theme so the custom CSS is never shown on a dark base.
+[theme]
+base = "light"
+primaryColor = "#4338CA"
+backgroundColor = "#F5F6FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#181B34"
